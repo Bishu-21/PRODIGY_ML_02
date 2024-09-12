@@ -10,7 +10,7 @@ In this project, we apply KMeans clustering to segment mall customers into disti
 
 ## **Google Colab Notebook**
 
-All work for this project is documented in a Google Colab notebook named [`MallCustomerClustering_ML_Task_02.ipynb`](#). The notebook includes:
+All work for this project is documented in a Google Colab notebook named [`ProdigyInfoTech_ML_Task_02.ipynb`](#). The notebook includes:
 
 - **Data Preprocessing:** Steps for cleaning and preparing the dataset.
 - **KMeans Clustering:** Implementation and evaluation of the KMeans clustering algorithm.
@@ -38,7 +38,7 @@ od.download("https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-
 
 To view and run the project:
 
-1. Open the Colab notebook: [`MallCustomerClustering_ML_Task_02.ipynb`](#).
+1. Open the Colab notebook: [`ProdigyInfoTech_ML_Task_02.ipynb`](#).
 2. Run each cell to execute the code and see the results.
 
 ## **Results & Discussion**
@@ -58,7 +58,3 @@ I want to thank **Prodigy InfoTech** for the opportunity to work on this project
 Feel free to reach out with any questions or suggestions!
 
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/bishal-sarkar-103ba6265)
-
----
-
-Feel free to adjust any specific details or add additional sections as needed!
