@@ -1,4 +1,4 @@
-# **MallCustomerClustering_ML_01**
+# **PRODIGY_ML_02**
 
 ### **Clustering Mall Customers using KMeans**
 
